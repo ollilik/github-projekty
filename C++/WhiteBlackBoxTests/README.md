@@ -1,4 +1,4 @@
 ### Autor: Daniel Olearčin
-# Projekt: Making Black Box, White box and TDD tests
+  - Projekt: Making Black Box, White box and TDD tests
 
 
