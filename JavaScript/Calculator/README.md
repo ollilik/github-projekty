@@ -20,3 +20,8 @@ Licence
 -------
 
 Tento program je poskytovan s licencí GNU GPL v3.0. Více viz. soubor LICENSE
+
+Manual
+---------
+
+Viz subor manual.pdf
