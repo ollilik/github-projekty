@@ -1,8 +1,8 @@
-### Autor: Daniel Olearčin
-# Projekt: Projekty zamerané na umelú inteligenciu
+### Author: Daniel Olearčin
+# Projekt: Projects focused on artificial intelligence
 
 ### UCS algorithm.docx
- - V tomto dokumente je vyriešená úloha pomocou UCS algoritmu
+ - In this document, the task is solved using the UCS algorithm
 ### prolog.pl
- - Kód napísaný v jazyku prolog
- - Zisťuje počet neprvočísel v zozname
+ - Code written in prologue language
+ - Detects the number of non-prime numbers in the list
