@@ -1,5 +1,5 @@
 ### Author: Daniel Olearčin
-# Projekt: Projects focused on artificial intelligence
+# Project: Projects focused on artificial intelligence
 
 ### UCS algorithm.docx
  - In this document, the task is solved using the UCS algorithm
