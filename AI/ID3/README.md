@@ -1,8 +1,8 @@
-### Autor: Daniel Olearčin
-# Projekt: ID3 algorithm
+### Author: Daniel Olearčin
+# Project: ID3 algorithm
 
 ### id3.txt
- - Zadanie s potrebnými parametrami
+ - Input with required parameters
 
 ### id3.png
- - obrázok s vyhodnotením pomocou ID3 algoritmu
+ - image with evaluation using ID3 algorithm
