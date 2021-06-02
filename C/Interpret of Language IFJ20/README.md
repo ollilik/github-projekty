@@ -5,4 +5,5 @@
   - scanner.c = Scanner is reading IFJ20 code and creating tokens that represents each semantic structure and sending tokens to parser
   - stack.c = Stack implementation
   - str.c = Helping functions for operations with strings
-  - ifj20.c = Starting file where are used parser,scanner,stack,str.c files
+  - symtable.c = Symtable implementation where are stored tokens
+  - ifj20.c = Starting file where are used parser,scanner,stack,str,symtable.c files
